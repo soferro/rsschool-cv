@@ -1,0 +1,14 @@
+
+body {
+    background-color: rgb(170, 188, 194);
+  }
+  
+  h1 {
+    color: black;
+    font-family: verdana;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
