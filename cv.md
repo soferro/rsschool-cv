@@ -1,4 +1,4 @@
-###  [rsschool-cv][https://github.com/soferro/rsschool-cv/cv.md]  
+###  [rsschool-cv](https://github.com/soferro/rsschool-cv/cv.md "https://github.com/soferro/rsschool-cv/cv.md")   
 ***
 ##  Elistratov Mikhail ##
 ---
@@ -6,7 +6,7 @@
 ___
 ### Contact information:  
 **E-mail:** soferro@yandex.ru
-___
+***
 
 
 
