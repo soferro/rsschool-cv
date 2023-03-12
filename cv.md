@@ -6,9 +6,3 @@
 ___
 ### Contact information:   
 **E-mail:** soferro@yandex.ru  
-
-
-
-
-
-
